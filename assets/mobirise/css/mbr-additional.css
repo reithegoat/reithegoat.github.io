@@ -819,6 +819,11 @@ a {
 .cid-sQMAUzi5ep .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
+@media (min-width: 992px) {
+  .cid-sQMAUzi5ep .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3rem);
+  }
+}
 .cid-sQMAUzi5ep .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -1384,6 +1389,11 @@ a {
 .cid-sQMAUzi5ep .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
+@media (min-width: 992px) {
+  .cid-sQMAUzi5ep .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3rem);
+  }
+}
 .cid-sQMAUzi5ep .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -1807,6 +1817,11 @@ a {
 }
 .cid-sQMY2EcKEg .navbar.collapsed.opened .dropdown-menu {
   top: 0;
+}
+@media (min-width: 992px) {
+  .cid-sQMY2EcKEg .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3rem);
+  }
 }
 .cid-sQMY2EcKEg .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
@@ -2266,6 +2281,11 @@ a {
 }
 .cid-sQMAUzi5ep .navbar.collapsed.opened .dropdown-menu {
   top: 0;
+}
+@media (min-width: 992px) {
+  .cid-sQMAUzi5ep .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3rem);
+  }
 }
 .cid-sQMAUzi5ep .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
@@ -2778,6 +2798,11 @@ a {
 .cid-sQMOoEn9Jk .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
+@media (min-width: 992px) {
+  .cid-sQMOoEn9Jk .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3rem);
+  }
+}
 .cid-sQMOoEn9Jk .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -3288,6 +3313,11 @@ a {
 }
 .cid-sQMY2EcKEg .navbar.collapsed.opened .dropdown-menu {
   top: 0;
+}
+@media (min-width: 992px) {
+  .cid-sQMY2EcKEg .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3rem);
+  }
 }
 .cid-sQMY2EcKEg .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
